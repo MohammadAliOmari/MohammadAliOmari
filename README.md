@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Mohammad Ali Omari from Jordan.<br><br>Recent Computer Science graduate with expertise in mobile development using Flutter. Proven experience in building<br>and deploying mobile applications, with a strong ability to learn and adapt quickly. Seeking to leverage my skills in a<br>dynamic development team.<br><br>- 🔭 I’m working as a Flutter Developer<br>- 📚 I'm currently learning web development</p>
+<p align="left">I'm Mohammad Ali Omari.<br><br>Recent Computer Science graduate with expertise in mobile development using Flutter. Proven experience in building<br>and deploying mobile applications, with a strong ability to learn and adapt quickly. Seeking to leverage my skills in a<br>dynamic development team.<br><br>- 🔭 I’m working as a Flutter Developer<br>- 📚 I'm currently learning web development</p>
 
 ###
 
