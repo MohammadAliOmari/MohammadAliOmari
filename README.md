@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">I'm Mohammad Ali Omari.<br><br>Recent Computer Science graduate with expertise in mobile development using Flutter. Proven experience in building<br>and deploying mobile applications, with a strong ability to learn and adapt quickly. Seeking to leverage my skills in a<br>dynamic development team.<be><be>- 📚 I'm currently learning Flutter development</p>
+<p align="left">I'm Mohammad Ali Omari.<br><br>Recent Computer Science graduate with expertise in mobile development using Flutter. Proven experience in building<br>and deploying mobile applications, with a strong ability to learn and adapt quickly. Seeking to leverage my skills in a<br>dynamic development team.</p>
+  
+###
+  
+<p align="left">- 📚 I'm currently learning Flutter development</p>
 
 ###
 
